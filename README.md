@@ -20,6 +20,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?&style=for-the-badge&logo=mongoose)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?&style=for-the-badge&logo=sequelize&logoColor=white)
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?&style=for-the-badge&logo=Jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?&style=for-the-badge&logo=mocha&logoColor=white)
