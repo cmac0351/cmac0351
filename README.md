@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-cmac0351-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cmac0351/)](https://www.linkedin.com/in/cmac0351/)
 [![GitHub](https://img.shields.io/badge/-cmac0351-181717?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/cmac0351)](https://github.com/cmac0351)
-[![Gmail](https://img.shields.io/badge/-cmac0351-EA4335?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:cmac0351@gmail.com)](mailto:cmac0351@gmail.com)
+[![Gmail](https://img.shields.io/badge/-cmac0351@gmail.com-EA4335?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:cmac0351@gmail.com)](mailto:cmac0351@gmail.com)
 
 
 ### Tools & Technologies
